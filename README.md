@@ -75,7 +75,6 @@ This prototype was created as part of my application for the **Data Scientist �
 
 If you're in basketball analytics, player development, or sports data science, I’d love to hear your thoughts or collaborate:
 
-**📧 Email**: brian.smoot.ii@gmail.com  
 **🌐 Website**: [LinkedIn](https://www.linkedin.com/in/briansmootii/)  
 **🐙 GitHub**: [@bsmoot718](https://github.com/bsmoot718)
 
