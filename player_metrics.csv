@@ -1,0 +1,20 @@
+Player,Position,Game,PTS,REB,AST,FGA,FTA,TS%
+Jalen Brunson,Guard,Game 1 vs DET,27,4,6,22,5,0.5578512396694215
+Jalen Brunson,Guard,Game 2 vs DET,32,5,7,25,6,0.5788712011577424
+Jalen Brunson,Guard,Game 3 vs DET,21,3,5,19,4,0.5057803468208092
+Jalen Brunson,Guard,Game 1 vs BOS,30,3,5,23,6,0.5850234009360374
+Jalen Brunson,Guard,Game 2 vs BOS,25,4,4,21,4,0.5492091388400703
+Jalen Brunson,Guard,Game 3 vs BOS,35,6,8,28,7,0.5630630630630631
+Jalen Brunson,Guard,Game 1 vs IND,38,5,9,30,8,0.5668257756563245
+Jalen Brunson,Guard,Game 2 vs IND,41,4,7,31,10,0.5790960451977402
+Jalen Brunson,Guard,Game 3 vs IND,29,3,6,24,5,0.5534351145038168
+Jalen Brunson,Guard,Game 4 vs IND,33,5,6,27,6,0.5566801619433198
+Karl-Anthony Towns,Big,Game 1 vs DET,24,12,4,18,5,0.594059405940594
+Karl-Anthony Towns,Big,Game 2 vs DET,19,11,3,16,4,0.5349099099099098
+Karl-Anthony Towns,Big,Game 3 vs DET,28,13,4,20,6,0.6183745583038869
+Karl-Anthony Towns,Big,Game 1 vs BOS,22,14,5,17,5,0.5729166666666667
+Karl-Anthony Towns,Big,Game 2 vs BOS,26,12,3,19,6,0.6007393715341959
+Karl-Anthony Towns,Big,Game 3 vs BOS,21,13,4,18,4,0.5313765182186234
+Karl-Anthony Towns,Big,Game 1 vs IND,25,10,4,19,5,0.589622641509434
+Karl-Anthony Towns,Big,Game 2 vs IND,27,11,4,21,6,0.5710659898477157
+Karl-Anthony Towns,Big,Game 3 vs IND,23,13,5,20,4,0.5284926470588235
